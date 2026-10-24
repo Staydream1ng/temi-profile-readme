@@ -1,16 +1,28 @@
-## 👏 Hi, I'm *your name here*
-##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
-## ⚒️ Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
-## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
-## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+# Hi, I'm Temi!
 
-_"Your sample quote here!"_
+## About Me
+
+I am a student at the University of Texas at San Antonio pursuing a Bachelor of Science in Artificial Intelligence through Multidisciplinary Studies. I also earned an Associate in Arts in Liberal Arts and General Studies from Thomas Edison State University. I am developing skills in artificial intelligence, programming, cybersecurity, Linux, Git, and virtualization.
+
+## Technical Skills
+
+- **Programming:** Python, Java, Bash, and PowerShell
+- **Development Tools:** Visual Studio Code, Jupyter Notebook, Google Colab, BlueJ, Git, and GitHub
+- **Platforms:** Windows 11 and Kali Linux
+- **Virtualization:** Oracle VirtualBox
+- **Cybersecurity:** Linux command line, SSH, file permissions, operating-system hardening, OSINT, and source verification
+
+## Interests
+
+- Artificial intelligence and machine learning
+- Cybersecurity and ethical hacking
+- Software development
+- Cloud computing and automation
+- Learning new technical tools
+
+## Links
+
+- [GitHub](https://github.com/Staydream1ng)
+- LinkedIn: Not currently available
+
+> I am continuing to build my technical skills through coursework, labs, and personal projects.
